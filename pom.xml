@@ -7,7 +7,7 @@
 	<name>wechat_pay_example</name>
 	<description>wechat_pay_example</description>
 	<properties>
-		<logback.version>1.0.13</logback.version>
+		<logback.version>1.2.0</logback.version>
 		<slf4j-api.version>1.7.7</slf4j-api.version>
 		<spring.version>5.2.0.RELEASE</spring.version>
 		<servlet.version>3.1.0</servlet.version>
